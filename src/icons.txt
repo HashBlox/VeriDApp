@@ -1,0 +1,14 @@
+MdOutlineHotel
+MdOutlinePeopleOutline
+MdOutlineHome
+MdNotificationsNone
+MdOutlineBookmarkBorder
+MdPersonOutline
+MdOutlineChevronRight
+MdArrowForward
+BiSlider
+MdOutlineStarOutline
+MdOutlineLocationOn
+MdOutlineSearch
+
+
